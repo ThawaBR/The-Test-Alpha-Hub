@@ -7,7 +7,7 @@ Track players and eliminate them with ease through an intuitive interface.
 Copy and paste this code into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/thawabr/thetestalpha-hub/main/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/TheTestAlpha-Hub/refs/heads/main/source"))()
 ```
 
 ## Features
