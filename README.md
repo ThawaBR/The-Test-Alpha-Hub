@@ -1,4 +1,4 @@
-# TheTestAlpha Hub
+# The Test Alpha Hub
 
 Track players and eliminate them with ease through an intuitive interface.
 
