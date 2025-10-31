@@ -18,7 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/The-Test-Alph
 - Auto Complete: Complete objectives automatically
 
 ## Status
-- **Version:** 0.1.0
+- **Version:** 1.0.1
 
 ## Developers
 - Creator: ThawaBr
